@@ -2,7 +2,7 @@
 
 [日本語ページ](./README_ja.md) (Japanese Page)
 
-![Completed Keyboard](./image/00-keyboard.jpg)
+![Completed Keyboard](./images/00-keyboard.jpg)
 
 ## 1. Introduction
 
