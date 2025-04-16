@@ -2,7 +2,7 @@
 
 [English Page](./README.md)
 
-![完成写真](./image/00-keyboard.jpg)
+![完成写真](./images/00-keyboard.jpg)
 
 ## 1. はじめに
 
